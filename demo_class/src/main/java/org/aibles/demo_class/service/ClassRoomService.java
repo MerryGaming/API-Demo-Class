@@ -1,7 +1,7 @@
 package org.aibles.demo_class.service;
 
 import org.aibles.demo_class.entity.ClassRoom;
-import org.aibles.demo_class.entity.Student;
+//import org.aibles.demo_class.entity.Student;
 
 import java.util.List;
 
